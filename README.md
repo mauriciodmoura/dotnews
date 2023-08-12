@@ -32,7 +32,7 @@ The .news platform is an exclusive blog that tailors content access based on a u
 <br>
 To ensure data integrity and security, all vital information, including subscription verifications and user details, are securely stored within the FaunaDB database, a cutting-edge NoSQL database system.
 <br>
-One of the standout features of ig.news is its serverless architecture. In layman's terms, traditional backend processes have been ingeniously woven into the frontend, adhering to the JAMStack standards. This not only streamlines operations but also optimizes performance.
+One of the standout features of .news is its serverless architecture. In layman's terms, traditional backend processes have been ingeniously woven into the frontend, adhering to the JAMStack standards. This not only streamlines operations but also optimizes performance.
 <br>
 Content creation and management are a breeze, thanks to the integration with the Prismic CMS. Seamlessly connecting with the frontend, it ensures that every post reaches the audience in real-time. And with the potent combination of Next.js and React driving the platform's frontend, users are assured of a dynamic, responsive, and interactive browsing experience.
 <br>
