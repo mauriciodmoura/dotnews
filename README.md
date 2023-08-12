@@ -8,7 +8,7 @@
   <br>
 
   <img src="https://img.shields.io/badge/made_by-mauriciodmoura-blue">
-  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/mauriciodmoura/credits-and-debits">
+  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/mauriciodmoura/dotnews">
   <a href="https://opensource.org/licenses/MIT">
     <img alt="License" src="https://img.shields.io/badge/license-MIT-blue">
   </a>
